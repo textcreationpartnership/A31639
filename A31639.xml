@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands choice, &amp;c. to all arch-bishops, and bishops who are not a shame (to) or ashamed (of) the name of Christ before men, grace, wisdom and truth, from God our Father, and from Our Lord Jesus Christ, Amen.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31639</idno>
+            <idno type="STC">Wing C1895</idno>
+            <idno type="STC">ESTC R24258</idno>
+            <idno type="EEBO-CITATION">08096686</idno>
+            <idno type="OCLC">ocm 08096686</idno>
+            <idno type="VID">40843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40843)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1225:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands choice, &amp;c. to all arch-bishops, and bishops who are not a shame (to) or ashamed (of) the name of Christ before men, grace, wisdom and truth, from God our Father, and from Our Lord Jesus Christ, Amen.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Peter Chamberlen.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40843:1" rendition="simple:additions"/>
+            <head>Englands Choice, &amp;c. To all ARCH-BISHOPS, and BISHOPS, who are not a <hi>Shame</hi> (to) or aſhamed (of) the NAME of CHRIST before MEN, <hi>Grace, Wiſdom</hi> and <hi>Truth,</hi> from <hi>God</hi> our <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and from our Lord <hi>Jeſus Chriſt,</hi> AMEN.</head>
+            <div type="letter">
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>I Thought to have Written in <hi>LATINE,</hi> that the <hi>Subject</hi> (being CATHOLICK) it might not be confined within our <hi>Cinque Ports;</hi> and becauſe the LITTLE-HORN (having ſprung up in <hi>Latine</hi>) it might be ſo rooted out as it ſprang up. But, as I would not have my <hi>Integrity</hi> favour of the <hi>Vanity</hi> of Languages (1. <hi>Cor.</hi> 14.1.-10.) ſo I would not run the <hi>Gauntlet</hi> of my Country-mens <hi>Tongues</hi> (in the Apoſtles Lan<g ref="char:EOLhyphen"/>guage) to cenſure me of <hi>Barbariſm</hi> (1. <hi>Cor.</hi> 4.11.) nor yet to hazard the <hi>Cenſure</hi> of our <hi>Saviour,</hi> as if I ſhunned the LIGHT of common People (<hi>John</hi> 3.19, 20.) I therefore dip my <hi>Pen</hi> in the IDIOM of our Mother Tongue; And (in the firſt place) I moſt humbly Salute thoſe of mine own Country; that (as it becomes us firſt) to caſt the <hi>Beam out of our own eye</hi> (Mat. 7.3, 4, 5. Luke 6.41, 42.) to avoid HYPOCRISIE, according to the Counſel of our <hi>Saviour;</hi> So this <hi>Honour</hi> of — <hi>Phyſitian heal thyſelf</hi> (Luk. 4.23, 24.) may firſt be aſcribed to your Wiſdom To which Purpoſe, not knowing how to Addreſs my <hi>Papers</hi> to your ſeveral PALACES, I have been at the Charge of <hi>Printing,</hi> and <hi>Diſtributing</hi> them to <hi>Bookſellers,</hi> that they may be conveyed into your hands; to waſh them in <hi>Innocency</hi> from the little <hi>Horn-Change</hi> of <hi>Times</hi> and <hi>Laws.</hi>
+               </p>
+               <p>Many HEADS have paſſed their <hi>Sentence</hi> on the VISIONS of DANIEL, of whom (the Lear<g ref="char:EOLhyphen"/>ned <hi>Doctor Moor</hi>) hath given an impartial Account, and laid the CHANGE of <hi>Times</hi> and <hi>Laws</hi> at the Doors of <hi>ROME.</hi> But the particulars of WHAT <hi>Times</hi> and <hi>Laws</hi> are changed? And — WHAT <hi>Times</hi> and <hi>Laws</hi> are come in their place? And—WHEN? And—by WHOM? is left as a <hi>Province</hi> for your <hi>Glory</hi> to bring to LIGHT; which may (again) ſet ROME on <hi>Fire,</hi> either of <hi>Zeal,</hi> to amend what is amiſs; Or burn to <hi>Aſhes</hi> of perpetual <hi>Silence</hi> and <hi>Oblivion,</hi> all their <hi>Lyes</hi> and <hi>Changes.</hi>
+               </p>
+               <p>I ſhall patiently wait one <hi>Month,</hi> to obſerve the <hi>Operation</hi> of this my <hi>Service;</hi> which (if it prove ineffectual) I ſhall not forget that I am a <hi>Member</hi> of the <hi>Church</hi> of <hi>Chriſt,</hi> (1 <hi>Cor.</hi> 12.26.) and of the Body <hi>Politick,</hi> Much leſs ſhall deny my ſelf to be Firſt, and Eldeſt PHYSICIAN to his Majeſties Perſon in Ordinary, and my DOCTORSHIP above 62 years ſtanding: Having been <hi>Phyſitian</hi> in three Kings and Queens Courts of <hi>ENGLAND,</hi> beſides many others. I muſt not (therefore) <hi>Palliate</hi> the CURE, but ſearch it to the <hi>Bottom;</hi> and accordingly having diſcovered the CAUSE, preſcribe the taking it away, that I may not be unworthy of Subſcribing my ſelf,</p>
+               <closer>
+                  <dateline>London, <date>
+                        <hi>May</hi> 29. 1682</date>
+                  </dateline>
+                  <salute>My Lords,</salute>
+                  <signed>Your <hi>Graces</hi> and your <hi>Lordſhips</hi> moſt <hi>Chriſtian-Servant,</hi> PETER CHAMBERLEN.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the Right Honourable, the Lord High CHANCELLOUR of ENGLAND; and the Lord <hi>Privy Seal;</hi> and the Lord MAYOR of LONDON: As alſo to both the Lord Chief <hi>Juſtices,</hi> with the Lord Chief <hi>Baron;</hi> and all the reſt of his Maje<g ref="char:EOLhyphen"/>ſties <hi>Judges, Magiſtrates,</hi> and <hi>Juſtices</hi> throughout <hi>England.</hi> Truth, and Wiſdom of God, is wiſhed through our <hi>Lord Jeſus Chriſt.</hi> AMEN.</head>
+               <opener>
+                  <salute>My Lords and Gentlemen.</salute>
+               </opener>
+               <p>VAlue not this <hi>Meſſuage,</hi> by the <hi>Meanneſs</hi> of the <hi>Meſſenger,</hi> but by the IMPORTANCE of the <hi>Meſſage.</hi> For—</p>
+               <p n="1">1. If the words of <hi>Chriſt</hi> be true (<hi>Mat.</hi> 12.25.) this KINGDOM is not far from <hi>Deſola<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <pb n="2" facs="tcp:40843:2"/>
+               <p n="2">2. The <hi>Tripple-Crowned-Little-Horn-Change</hi> of TIMES and LAWS, which <hi>God</hi> thought good to reveal (<hi>Dan.</hi> 7.1, 25.) to his <hi>greatly beloved Prophet</hi> (<hi>Dan.</hi> 9.23.) And ſent his <hi>Angel</hi> to interpret (<hi>Dan.</hi> 7.15 16.) ought not to be <hi>undervalued</hi> by Men of <hi>Wiſdom</hi> and <hi>Honour.</hi>
+               </p>
+               <p n="3">3. Be you pleaſed to reſtore thoſe TIMES and LAWS there ſpoken of, and you will not find it a work ſo <hi>Contemptible,</hi> as ſome may imagine.</p>
+               <p>I have writen to the moſt Reverend ARCH-BISHOPS, and BISHOPS about it: They being for the WORD as you for the SWORD. If then you be joyned together in the Work of the <hi>Lord,</hi> You will bring it to <hi>Light,</hi> and make it manifeſt that your <hi>Work is wrought in God,</hi> (Joh. 3.20.21.)</p>
+               <p>If any <hi>Particulars</hi> lie hid, be pleaſed to command the LAMP of,</p>
+               <closer>
+                  <salute>My Lords and Gentlemen,</salute>
+                  <signed>Your Lordſhips and Worſhips, Moſt Loyal-Engliſh-Servant, <hi>Peter Chamberlen.</hi>
+                  </signed>
+                  <dateline>
+                     <date>June 12. 1682.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the Two LIGHTS of ENGLAND; the Two <g ref="char:V">Ʋ</g>NIVERSITIES of this Kingdom: And to all their moſt worthy HEADS and MEMBERS. <hi>Truth, Wiſdom</hi> and <hi>Hon<g ref="char:EOLhyphen"/>our</hi> from <hi>God</hi> our Father, through our <hi>Lord</hi> JES<g ref="char:V">Ʋ</g>S CHRIST.</head>
+               <opener>
+                  <salute>Ye celebrated Men of <hi>Wiſdom</hi> and <hi>Learning.</hi>
+                  </salute>
+               </opener>
+               <p>THe TRIPLE-CROWNED-LITTLE-HORN, hath ſo worried the <hi>Saints of the Moſt High,</hi> out of the World with his blaſphemous <hi>Endeavours</hi> of changing TIMES and LAWS, that Men know not how to keep <hi>Time</hi> for their <hi>Laws,</hi> nor have any <hi>Law</hi> for their <hi>Time.</hi>
+               </p>
+               <p>But the Learned Dr. <hi>MORE</hi> (and ſeveral others) in their COMMENTARIES on <hi>DANI<g ref="char:EOLhyphen"/>EL,</hi> have laid the CHANGE of TIMES and LAWS at the <hi>Doors</hi> of <hi>ROME.</hi> Yet becauſe <hi>(Dolus verſatur in univerſalibus)</hi> they ſeem not to be concerned.</p>
+               <p>There wants a <hi>NATHAN</hi> to ſay, <hi>Thou art the Man.</hi> (2 <hi>Sam.</hi> 12 7.) There wants ſome to ſay, what <hi>Times,</hi> and what <hi>Laws,</hi> the <hi>Angel</hi> ſpake of to <hi>Daniel?</hi> Dan. 7.25.</p>
+               <p>To which purpoſe I did write to the Moſt <hi>Reverend</hi> ARCH-BISHOPS and BISHOPS, on the <hi>Kings Birth-Day;</hi> and the moſt <hi>Honourable</hi> JUDGES in Term time, in the very beginning. And now to your <hi>Selves</hi> (againſt your <hi>Days</hi> of <hi>Solemnity</hi>) that many Hands may make light Work, <hi>Plus vident Oculi, quam Oculus.</hi>
+               </p>
+               <p>If then you are pleaſed to make a <hi>Diſcovery</hi> of thoſe TIMES and LAWS, you do well; but if you can reſtore them, you do better: For (ſo extravagant is yet the LITTLE-HORN in <hi>England</hi>) that if any Single <hi>Pen</hi> ſhould draw the <hi>Curtain,</hi> and diſcover the <hi>Nakedneſs</hi> of ANTI<g ref="char:EOLhyphen"/>CHRIST in thoſe <hi>Times</hi> and <hi>Laws,</hi> they would immediately beſtow upon him the <hi>Curſe</hi> of <hi>CHAM,</hi> or adjudge him to <hi>Fire</hi> and <hi>Fagot.</hi>
+               </p>
+               <p>And the SCENT of the HORN is yet ſo <hi>Rank,</hi> that it is not in the <hi>Power</hi> of KING and PARLIAMENT, to make a perfect <hi>Reſtauration.</hi>
+               </p>
+               <p>Yet do not you refuſe your helping hand—</p>
+               <q>Eſt aliquid prodire tenus, ſi non detur ultra.</q>
+               <p>How ſtrange would it appear, if after all your <hi>Silence,</hi> my <hi>Goos-Quill</hi> ſhould make a <hi>Noiſe,</hi> and awaken the CAPITOL of <hi>ENGLAND</hi> to prevent a (total) <hi>Deſolation</hi> propheſied by the <hi>Lord Jeſus Chriſt,</hi> (<hi>Mat.</hi> 12.25.)</p>
+               <p>Let not this <hi>Service</hi> be unſeaſonable from</p>
+               <closer>
+                  <dateline>
+                     <date>June 19. 1682.</date>
+                  </dateline>
+                  <signed>Your moſt humble Chriſtian Servant, <hi>Peter Chamberlen.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>ENGLANDS CHOICE, <hi>in believing</hi> Truth, <hi>or</hi> Falſhood, <hi>to</hi> Salvation, <hi>or</hi> Damnation.</head>
+               <p>CAN there be a greater <hi>Importance</hi> than SALVATION, or DAMNATION, of <hi>Kings,</hi> and <hi>KINGDOMS?</hi> Can there be more unqueſtionable <hi>Credit</hi> than the WORD of Almighty God? Of ſo great <hi>Conſequence</hi> is believing the <hi>Truth,</hi> or a <hi>Lie.</hi> For, <hi>God ſhall ſend them ſtrong deluſions (to bilieve a Lie) that they all may be damned who receive not the truth in the love of it,
+<pb n="3" facs="tcp:40843:2"/>but have pleaſure in unrighteouſneſs.</hi> (2 Theſ. 2.11, 12.) <hi>And Jeſus Chriſt ſhall be revealed from Heaven with his mighty Angels; in flaming fire, taking vengeance on them that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt.</hi> (2 Theſ. 1.7, 8.) <hi>But to be glorified in his Saints, and admired in all them that believe.</hi> (Verſ. 10.) Yet, <hi>who hath believed our report? and to whom is the Arm of the Lord revealed?</hi> (Iſa. 53.1.) For the Triple-crowned-little-HORN hath opened his mouth, <hi>ſpeaking great things againſt the moſt High, and hath worn out the Saints of the Moſt High; hath thought to change Times and Laws; and they have been given into his hands, for a time, and times, and the dividing of times.</hi> (Dan. 7.25.) The <hi>Angel</hi> ſaith not to <hi>Daniel,</hi> that the little HORN did change <hi>Times</hi> and <hi>Laws;</hi> For (Gen. 8.22.) <hi>Till Heaven and Earth paſs, one jot, or one tittle, in no wiſe ſhall paſs from the Law, till all be fulfilled.</hi> (Mat. 5.18.) The HORN thought to change Times and Laws, but the <hi>Saints</hi> believe, and ſwear they are changed; ſuch tough-little-Horn men Saints are grown. The little <hi>Horn</hi> makes the <hi>Lie,</hi> and Saints believe the <hi>Lie.</hi> Are they not both joyned together? (<hi>Rev.</hi> 22.15.) I did write to BISHOPS (on the Kings Birth-day) that I muſt not <hi>palliate</hi> the <hi>Cure.</hi> To STATESMEN (in the beginning of <hi>Midſummer</hi> Term) to offer my <hi>Lamp.</hi> And to the UNIVERSITIES (about the ſolemn time of their <hi>Acts</hi> and <hi>Com<g ref="char:EOLhyphen"/>mencements</hi>) to make my <hi>Gooſe-quill</hi> make a <hi>noiſe,</hi> and awaken the CAPITOL of <hi>ENGLAND.</hi> Promiſing alſo (if they did not) I would anſwer the <hi>Queſtion.</hi> But having heard no An<g ref="char:EOLhyphen"/>ſwer, as if what God had vouchſafed to reveal in a <hi>Viſion</hi> to his greatly beloved Prophet, (<hi>Dan,</hi> 9.23.) And his Angel to interpret it (<hi>Dan.</hi> 7.16.) were all but a TRIFLE. I ſhall boldly affirm, that the <hi>Times</hi> and <hi>Laws</hi> (there thought to be changed) are the TIMES and LAWS of GOD; even the <hi>Commandments of God, and the Faith of Jeſus,</hi> (Rev. 14.12.)</p>
+               <p>To paſs through the dark <hi>Meanders</hi> of the little <hi>Horn</hi> (that I might not palliate the Cure) I ſhall light my <hi>Lamp,</hi> and fill my <hi>Quill;</hi> making a noiſe over the <hi>Capitol</hi> to ſave the <hi>Nation;</hi> in reſcuing the Laws of God from the uſurping THOUGHTS of the little <hi>Horn.</hi>
+               </p>
+               <p>I ſhall lay before them, whether they would have but one <hi>Lawgiver,</hi> who is only able to ſave? (<hi>Jam.</hi> 4.12. <hi>Iſa.</hi> 33.22.) Or many <hi>Lawgivers,</hi> who are only able to deſtroy? Whe<g ref="char:EOLhyphen"/>ther they will have <hi>God,</hi> or <hi>Mammon?</hi> (Mat. 6.24.) <hi>Chriſt,</hi> or <hi>Belial?</hi> (2 Cor. 6.16.) <hi>For his ſervants we are to whom we obey.</hi> (Rom. 6.16.) Whether they will have the LAW of GOD, which is <hi>holy, juſt, good</hi> and <hi>ſpiritual?</hi> (Rom. 7.12, 14.) Which alſo <hi>endureth for even?</hi> (1 Pet. 1.25.) And which ſhall <hi>judge us in the laſt day?</hi> (John 12.48.) Or the <hi>Changling-Times,</hi> and <hi>Laws</hi> of the little HORN, which blaſpheme <hi>God,</hi> and wear out the Saints; laſting no longer than the next ſwearing Mark of the Beaſt? (<hi>Rev.</hi> 13.16, 17.) Both which being brought to the light (<hi>Jo.</hi> 3.20, 21.) will be made manifeſt. (<hi>Eph.</hi> 5.13.) Behold now the <hi>Commandments</hi> in order.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>1</label> TO HAVE BUT ONE GOD. <hi>Exo.</hi> 20.3. <hi>Deu.</hi> 5.7. But the <hi>Little-Horn</hi> hath <hi>Gods many, and Lords many,</hi> (1 Cor<g ref="char:punc">▪</g> 8.5.) 'Tis alſo written, <hi>Faith is the gift of God,</hi> (Eph. 2.8.) But the <hi>Little-Horn</hi> hath <hi>Godfathers</hi> and <hi>Godmothers;</hi> to keep the Faith of the Children in Pawn, till they come to Age.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>2</label> TO WORSHIP NONE BUT GOD, <hi>Exo.</hi> 20.4, 5. <hi>Deu.</hi> 5.8, 9. But as the Hea<g ref="char:EOLhyphen"/>then worſhipped <hi>Juno,</hi> and Idolatrous <hi>Iſrael</hi> the <hi>Cake-Queen of Heaven</hi> (Jer 7.18. ch. 44.18, 19.) <hi>to whom they poured out drink-offerings;</hi> as if they ſold <hi>Ale</hi> and <hi>Cakes</hi> in <hi>Heaven:</hi> So the <hi>Little-Horn</hi> worſhip the VIRGIN-QUEEN of Heaven, a Mother of Five Sons, and of all their Siſters, (<hi>Mat.</hi> 12.47. <hi>ch.</hi> 13.55, 56.) But this is not all the worſhip which the little <hi>Horn</hi> hath thought to change, for he hath multiplied WATER-GODS by Millions: Beſides, all <hi>Saints,</hi> and all <hi>Souls</hi> are worſhipped, contrary to this Commandment. To this Command<g ref="char:EOLhyphen"/>ment, Gods Statutes and Judgments appoint Death (without mercy) unto <hi>Idolaters, Exo.</hi> 32.27. <hi>Num.</hi> 25.4-9. <hi>Ch.</hi> 31.1-13. <hi>Deu.</hi> 13.1-11. But the little <hi>Horn</hi> makes all IDOLA<g ref="char:EOLhyphen"/>TERS hail fellow well met: As good as any <hi>Chriſtians;</hi> calling themſelves the Kings beſt <hi>Friends;</hi> and their <hi>Witneſs</hi> as authentick as the Kings <hi>Evidence.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>3</label> TAKE NOT THE NAME OF GOD IN VAIN, <hi>Exo.</hi> 20.7. <hi>Deu.</hi> 5.11. Men (formerly) did ſwear in <hi>Truth, in Judgment, and in Righteouſneſs,</hi> (Jer. 4.2.) But Chriſt ſaith, <hi>Swear not at all,</hi> (Mat. 5.34) And his Servant <hi>James</hi> ſaith, <hi>Above all things (my brethren) ſwear not,</hi> (Jam. 5.12.) But the little <hi>Horn</hi> alloweth, impoſeth, and maintaineth <hi>Swearing, Forſwearing,</hi> and <hi>Falſ-ſwaring,</hi> as things meritorious for the MOTHER-CHURCH; though for theſe things the Land mourneth, (<hi>Jer.</hi> 23.10. <hi>Hoſ.</hi> 4.2, 3.)</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>4</label> THE SEVENTH DAY IS THE SABBATH OF THE LORD THY GOD, <hi>Exo.</hi> 20.8, 9, 10, 11. <hi>Deu.</hi> 5.12, 13, 14, 15. But the little <hi>Horn</hi> hath changed that time, giving the <hi>Lie</hi> to the Seventh day; and ſaith (in plain terms) that the Firſt day is the Sabbath of the Lord: So that here the time is changed every Week. Then, from <hi>Even</hi> to <hi>Even</hi> was the <hi>Sab<g ref="char:EOLhyphen"/>bath,</hi> (<hi>Lev.</hi> 23.32.) Now, from <hi>Morning</hi> to <hi>Evening</hi> is the <hi>Sabbath.</hi> Then, they might not ſpeak their own words, nor do their own works, nor take their own pleaſure, (<hi>Iſa.</hi> 58.13.) Now, they have all liberty of works, or ſports, or words.</p>
+               <pb n="4" facs="tcp:40843:3"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>5</label> HONOUR PARENTS, <hi>Exo.</hi> 20.12. <hi>Deu.</hi> 5.16. <hi>A ſtubborn and rebellio<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Son, muſt be brought by his Father and Mother to the Elders of the City, to be ſtoned to death.</hi> (Deu. 21.18-22.) But the little <hi>Horn</hi> hath thought to change this <hi>Law,</hi> ſo as to make it MURTHER.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>6</label> THOU SHALT NOT KILL, <hi>Exo.</hi> 20.13. <hi>Deu.</hi> 5.17. 'Tis written, <hi>Who ſo ſheddeth mans blood, by man ſhall his blood be ſhed,</hi> (Gen. 9.6.) But the little <hi>Horn</hi> grants a <hi>Pardon.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>7</label> THOU SHALT NOT COMMIT ADULTERY, <hi>Exo.</hi> 20.14. <hi>Deu.</hi> 25.18. This was puniſhed with Death: (<hi>Lev.</hi> 20.10.) But the little <hi>Horn</hi> thinks to change it into <hi>Pennance</hi> of a White Sheet.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>8</label> THOU SHALT NOT STEAL, <hi>Exo.</hi> 20.15. <hi>Deu.</hi> 5.19. The Thief (formerly) was to reſtore four fold, or be ſold. (<hi>Exo.</hi> 22.1.3.) But the little <hi>Horn</hi> hangeth up men for Thirteen-pence half-peny, and confiſcateth all his Goods.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>9</label> THOU SHALT NOT BEAR FALSE WITNESS, <hi>Exo.</hi> 20.16. <hi>Deu.</hi> 5.20. The falſe Witneſs (formerly) was to have it done to him, as he thought to have done to another: <hi>Life for Life, Eye for Eye; Tooth for Tooth; Hand for Hand; Foot for Foot,</hi> (Deu. 19.18, 19. Exo. 21.23, 24, 25.) But the little <hi>Horn</hi> thinketh to change it into a <hi>Pillory,</hi> or <hi>Pardon.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Com. </seg>10</label> THOU SHALT NOT COVET, <hi>Exo.</hi> 20.17. <hi>Deu.</hi> 5.21. Covetouſneſs was puniſhed in <hi>Achans</hi> whole Family, (<hi>Joſh.</hi> 7.21-27.) But the little <hi>Horn</hi> paſſeth all Scot-free; puniſhing none, unleſs a <hi>Cheat,</hi> or <hi>Fraud,</hi> be found, and proved. Thus the Laws of theſe Commands are thought to be changed.</p>
+               <p>Behold the little <hi>Horn</hi> now in the <hi>Faith</hi> of <hi>Jeſus.</hi>
+               </p>
+               <p n="1">1. As to BAPTISM. Jeſus ſaith, <hi>except one be born from above, he cannot ſee the Kingdom of God.</hi> (John 3.3.) He alſo ſaith, <hi>Except one be born of Water, and of the Spirit, he cannot enter into the Kingdom of God.</hi> (John 3.5.) The little <hi>Horn</hi> is ſo charitable as to crowd in all Infants, and take the Kingdom of God by force of <hi>Circumciſion;</hi> leaſt he ſhould loſe ſo many <hi>Fees</hi> and <hi>Members</hi> of his <hi>Church.</hi>
+               </p>
+               <p>'Tis true; <hi>Circumciſion</hi> was under th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> LAW; but the little <hi>Horn</hi> hath Placed RANTISM in the room of it, and called it <hi>Baptiſm.</hi>
+               </p>
+               <p n="1">1. Then <hi>Males</hi> only were circumciſed. But the little <hi>Horn</hi> rantiſeth both <hi>Sexes.</hi>
+               </p>
+               <p n="2">2. Then the eighth day was preciſely appointed. (Gen. 17.12. Ch. 21.4. Exod. 5.25, 26.) But now (at any time) <hi>Infants</hi> are rantiſed, when the <hi>little-Horn-Goſſips</hi> can agree about it.</p>
+               <p n="3">3. Then <hi>Circumciſion</hi> was in the fore-Skin. Now <hi>Rantiſm</hi> is in the <hi>Face,</hi> with a <hi>Croſs</hi> in the <hi>Forehead.</hi>
+               </p>
+               <p n="4">4. Then they went down into the Water; were baptized, and buried under water; (<hi>Rom.</hi> 6.4.) riſing again out of the Rivers, and many Waters. As Jeſus (<hi>Mat.</hi> 3.16 17.) <hi>John</hi> in <hi>Enon</hi> (Jo. 3.23.) <hi>Philip</hi> and the <hi>Enuch</hi> (<hi>Acts</hi> 8.38.) But now a BASIN, or <hi>Sucking-Bottle</hi> will ſerve turn.</p>
+               <p n="5">5. To <hi>Baptiſm</hi> is required <hi>Faith.</hi> (<hi>Mark</hi> 16.16. <hi>Acts</hi> 8.37.) Now they only require it in <hi>Parents,</hi> who are misbelievers.</p>
+               <p n="6">6. Then Jeſus took a journey from <hi>Galilee</hi> to <hi>Jordan,</hi> to be Baptized of <hi>John.</hi> (<hi>Mat.</hi> 3.13.) But the little-<hi>Horn</hi> ſaves all that Labour, by bringing <hi>Rantiſm</hi> into a Chamber. Thus the little <hi>Horn</hi> hath thought to change the <hi>Times</hi> and <hi>Laws</hi> of <hi>Baptiſm</hi> under the <hi>Goſpel.</hi>
+               </p>
+               <p n="2">2. As to the LORDS SUPPER. This was inſtituted about <hi>Midnight,</hi> in the end of eating the <hi>Paſſover.</hi> (Exod. 12.29.31.42. <hi>Mat.</hi> 26, 26, 27. <hi>Mark</hi> 14.22, 23. <hi>Luke</hi> 22.19, 20. 1 <hi>Cor.</hi> 11.23, 24, 25. <hi>Mat.</hi> 25.6. <hi>Acts</hi> 20.7, 8.11.) in breaking of <hi>Bread,</hi> and drinking of <hi>Wine,</hi> But the little <hi>Horn</hi> (by vertue of <hi>Tapers</hi> and <hi>Lamps</hi>) do enlighten their dark miſteries in all times of Night, or Day, throughout the year; tranſubſtantiating the viſible WATER, into the inviſible <hi>Fleſh</hi> and <hi>Blood</hi> of <hi>Chriſt:</hi> making them ſwallow it whole, Bones and all, as of<g ref="char:EOLhyphen"/>ten as they pleaſe, to the very laſt <hi>Moment</hi> of their <hi>Breath;</hi> That they may be as well provided of <hi>Victuals</hi> (for ſo great a Journey as Heaven) like the proviſion of <hi>ELIAS,</hi> who at one meal was ſufficiently fed for a <hi>Journey of</hi> 40 <hi>Days, and</hi> 40 <hi>Nights, to</hi> Horeb, <hi>the Mount of God.</hi> (1 <hi>Kings</hi> 19.8.)</p>
+               <p>But ſome are ſo favourable, as to avoid the Evil report of NIGHT-MEETINGS, to have <hi>Bread</hi> and <hi>Wine</hi> at <hi>Noon-Day;</hi> with two unlighted <hi>Tapers,</hi> to ſhew it ſhould be <hi>Midnight.</hi> Thus hath the little <hi>Horn</hi> mangled and changed hoth times, things, and meaning of the very words.</p>
+               <p>I appeal, therefore to all <hi>Biſhops, Statesmen, Magiſtrates,</hi> and <hi>Univerſities,</hi> whether theſe <hi>Chang<g ref="char:EOLhyphen"/>es</hi> of <hi>Times</hi> and <hi>Laws,</hi> are not of the <hi>Times</hi> and <hi>Laws</hi> of <hi>God?</hi> And of unthroning <hi>Chriſt,</hi> the LAW-GIVER? Likewiſe, whether <hi>King</hi> and <hi>Kingdom,</hi> had better continue in the <hi>Little-Horn-Changes</hi> (which they are ſworn to) or be forſworn to keep the COMMANDEMENTS of <hi>God</hi> and the <hi>FAITH</hi> of <hi>Jeſus.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. Jones,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
